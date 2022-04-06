@@ -1,4 +1,4 @@
-#Quick example of an AWS lambda function in Java
+# Quick example of an AWS lambda function in Java
 
   1. Clone this repo
   2. `./mvnw clean package` to build it
